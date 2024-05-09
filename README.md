@@ -1,5 +1,7 @@
 https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=drive_link
+
 plotly графики:
+
 1) file:///C:/Users/mkost/OneDrive/Desktop/data%20science/hh%20project1/plotly/hist1.html
 2) file:///C:/Users/mkost/OneDrive/Desktop/data%20science/hh%20project1/plotly/hist2.html
 3) file:///C:/Users/mkost/OneDrive/Desktop/data%20science/hh%20project1/plotly/hist3.html
